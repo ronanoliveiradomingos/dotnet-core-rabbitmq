@@ -1,0 +1,13 @@
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-publisher\bin\Debug\netcoreapp3.0\rabbitmq-demo-publisher.exe
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-publisher\bin\Debug\netcoreapp3.0\rabbitmq-demo-publisher.deps.json
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-publisher\bin\Debug\netcoreapp3.0\rabbitmq-demo-publisher.runtimeconfig.json
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-publisher\bin\Debug\netcoreapp3.0\rabbitmq-demo-publisher.runtimeconfig.dev.json
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-publisher\bin\Debug\netcoreapp3.0\rabbitmq-demo-publisher.dll
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-publisher\bin\Debug\netcoreapp3.0\rabbitmq-demo-publisher.pdb
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-publisher\obj\Debug\netcoreapp3.0\rabbitmq-demo-publisher.csprojAssemblyReference.cache
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-publisher\obj\Debug\netcoreapp3.0\rabbitmq-demo-publisher.AssemblyInfoInputs.cache
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-publisher\obj\Debug\netcoreapp3.0\rabbitmq-demo-publisher.AssemblyInfo.cs
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-publisher\obj\Debug\netcoreapp3.0\rabbitmq-demo-publisher.dll
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-publisher\obj\Debug\netcoreapp3.0\rabbitmq-demo-publisher.pdb
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-publisher\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-publisher\obj\Debug\netcoreapp3.0\rabbitmq-demo-publisher.csproj.CopyComplete

@@ -1,0 +1,13 @@
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-consumer\bin\Debug\netcoreapp3.0\rabbitmq-demo-consumer.exe
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-consumer\bin\Debug\netcoreapp3.0\rabbitmq-demo-consumer.deps.json
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-consumer\bin\Debug\netcoreapp3.0\rabbitmq-demo-consumer.runtimeconfig.json
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-consumer\bin\Debug\netcoreapp3.0\rabbitmq-demo-consumer.runtimeconfig.dev.json
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-consumer\bin\Debug\netcoreapp3.0\rabbitmq-demo-consumer.dll
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-consumer\bin\Debug\netcoreapp3.0\rabbitmq-demo-consumer.pdb
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-consumer\obj\Debug\netcoreapp3.0\rabbitmq-demo-consumer.csprojAssemblyReference.cache
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-consumer\obj\Debug\netcoreapp3.0\rabbitmq-demo-consumer.AssemblyInfoInputs.cache
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-consumer\obj\Debug\netcoreapp3.0\rabbitmq-demo-consumer.AssemblyInfo.cs
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-consumer\obj\Debug\netcoreapp3.0\rabbitmq-demo-consumer.dll
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-consumer\obj\Debug\netcoreapp3.0\rabbitmq-demo-consumer.pdb
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-consumer\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+D:\projetos\dotnet-core-rabbitmq\rabbitmq-demo-consumer\obj\Debug\netcoreapp3.0\rabbitmq-demo-consumer.csproj.CopyComplete
